@@ -19,7 +19,7 @@ DevOps-инженерам предстоит готовиться к огран�
 * К чему стоит быть готовым DevOps инженеру?
 * Влияние на менеджмент и бизнес
 
-
+![ A wide-format illustration of a digital fabric gradually transforming into a vast data ocean. The glowing strands of binary code (0s and 1s) weave tog](DALLE.webp)
 
 ## Почему мне вообще стоит писать этот текст, а вам его читать?
 
